@@ -11,7 +11,12 @@
     LEAST coins collected
 
 ##### [My Solution]
-    BFS ()
+
+7X7 maze <>
+<img width="144" alt="스크린샷 2023-05-31 오후 2 29 16" src="https:github.com/LeeShinwon/Algo_final_assignment/assets/82192923/f1e64f59-d28c-4036-be7b-e003db553e51">
+</br>Solution is  6+1+3+8+4+6+4+7+3+0+5== 47
+
+
 
 ##### [REFERENCED LINK]
 * [Python File Read](https://wikidocs.net/26)
