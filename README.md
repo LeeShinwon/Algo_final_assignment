@@ -25,6 +25,28 @@
     1616
 * 101X101 maze</br>
     2480
+
+
+##### [TIME & SPACE complexity]
+* time</br>
+    bfs-queue(deque library)</br>
+    This BFS code uses the visited list variable to visit only nodes that have not been visited before.</br>
+    ##### => O(N)</br>
+    
+* space</br>
+    f:TextIOWrapper</br>
+    arr:list -> n^2</br>
+    line:str</br>
+    visited:list[list[bool]] -> n^2</br>
+    i:int</br>
+    sx,sy:int</br>
+    dx,dy:list[int]</br>
+    x,y:int</br>
+    queue:deque -> n</br>
+    nx,ny:int</br>
+    
+    ##### => O(n^2)</br>
+
 ##### [REFERENCED LINK]
 * [Python File Read](https://wikidocs.net/26)
 * [BFS maze problem](https://github.com/ndb796/python-for-coding-test/blob/master/5/11.py)
